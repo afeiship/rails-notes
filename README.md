@@ -1,0 +1,2 @@
+# rails-notes
+> Rails notes.
