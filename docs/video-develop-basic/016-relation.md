@@ -6,7 +6,7 @@
 2. 一个用户可以发多条微博 
 3. `多方(many: posts)有单方(one: user)的 id`
 
-    <img width="500" src="https://ws1.sinaimg.cn/large/006tNc79gy1g21dwhyhmzj318s0u01ky.jpg"/>
+    <img width="800" src="https://ws1.sinaimg.cn/large/006tNc79gy1g21dwhyhmzj318s0u01ky.jpg"/>
 
 ## 添加 migration
 ```shell
