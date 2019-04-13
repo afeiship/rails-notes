@@ -18,7 +18,8 @@ get 'posts/:id', :to=>'posts#show'
 <%= link_to 'id为1的post', { controller:'posts', action:'show', id:'1' }  %>
 ```
 
-## naming routes(具名路由)
+## naming routes
+> 具名路由
 ```rb
 get 'posts/:id', :to=>'posts#show', :as=>'show_post'
 ```
