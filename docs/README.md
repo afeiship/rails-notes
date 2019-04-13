@@ -8,6 +8,10 @@ Basic install steps.
 ## Javascript
   - [Home](/)
   - [about-rails](/video-develop-basic/001-about-rails.md)
-  - [globby](/video-develop-basic/002-rails-env.md)
-  - [globby](/video-develop-basic/003-new-project.md)
-  - [globby](/video-develop-basic/003-new-project.md)
+  - [rails-env](/video-develop-basic/002-rails-env.md)
+  - [new-project](/video-develop-basic/003-new-project.md)
+  - [mvc](/video-develop-basic/004-mvc.md)
+  - [rails-generate](/video-develop-basic/005-rails-generate.md)
+  - [rails-resources](/video-develop-basic/006-rails-resources.md)
+  - [rest-actions](/video-develop-basic/007-rest-actions.md)
+  - [weibo-posts](/video-develop-basic/008-weibo-posts.md)
