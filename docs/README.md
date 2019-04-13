@@ -18,3 +18,7 @@ Basic install steps.
   - [rails-routes](/video-develop-basic/009-rails-routes.md)
   - [resources-routes](/video-develop-basic/010-resources-routes.md)
   - [active-record](/video-develop-basic/011-active-record.md)
+  - [model-validate](/video-develop-basic/012-model-validate.md)
+  - [add-field](/video-develop-basic/013-add-field.md)
+  - [new-users](/video-develop-basic/014-new-users.md)
+  - [session](/video-develop-basic/015-session.md)

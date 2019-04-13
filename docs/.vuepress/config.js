@@ -29,6 +29,10 @@ module.exports = {
           '/video-develop-basic/009-rails-routes.md',
           '/video-develop-basic/010-resources-routes.md',
           '/video-develop-basic/011-active-record.md',
+          '/video-develop-basic/012-model-validate.md',
+          '/video-develop-basic/013-add-field.md',
+          '/video-develop-basic/014-new-users.md',
+          '/video-develop-basic/015-session.md',
         ]
       }
     ]

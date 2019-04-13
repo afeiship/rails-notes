@@ -1,7 +1,7 @@
 # active-record
 > ORM for ruby.
 
-## ActiveRecord
+## active record
 - 数据库的高级封装
 - 不用使用SQL语句
 - 优点很多
