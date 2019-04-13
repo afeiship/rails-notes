@@ -1,7 +1,7 @@
 # relation
 > 数据关联。
 
-## 关键分析
+## relation ship
 1. 一条 weibo 只对应一个用户
 2. 一个用户可以发多条微博 
 3. `多方(many: posts)有单方(one: user)的 id`
