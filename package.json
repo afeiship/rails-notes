@@ -1,0 +1,29 @@
+{
+  "name": "rails-notes",
+  "version": "1.0.0",
+  "description": "Rails notes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:deploy": "./.bin/deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rails-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afeiship/rails-notes/issues"
+  },
+  "homepage": "https://github.com/afeiship/rails-notes#readme",
+  "devDependencies": {
+    "@vuepress/core": "^1.0.0-alpha.44",
+    "vuepress": "^1.0.0-alpha.44"
+  }
+}
