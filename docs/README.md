@@ -15,3 +15,4 @@ Basic install steps.
   - [rails-resources](/video-develop-basic/006-rails-resources.md)
   - [rest-actions](/video-develop-basic/007-rest-actions.md)
   - [weibo-posts](/video-develop-basic/008-weibo-posts.md)
+  - [rails-routes](/video-develop-basic/009-rails-routes.md)

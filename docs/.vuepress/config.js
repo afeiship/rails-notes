@@ -26,6 +26,7 @@ module.exports = {
           '/video-develop-basic/006-rails-resources.md',
           '/video-develop-basic/007-rest-actions.md',
           '/video-develop-basic/008-weibo-posts.md',
+          '/video-develop-basic/009-rails-routes.md',
         ]
       }
     ]
