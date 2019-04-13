@@ -28,6 +28,7 @@ module.exports = {
           '/video-develop-basic/008-weibo-posts.md',
           '/video-develop-basic/009-rails-routes.md',
           '/video-develop-basic/010-resources-routes.md',
+          '/video-develop-basic/011-active-record.md',
         ]
       }
     ]

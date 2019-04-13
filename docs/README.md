@@ -17,3 +17,4 @@ Basic install steps.
   - [weibo-posts](/video-develop-basic/008-weibo-posts.md)
   - [rails-routes](/video-develop-basic/009-rails-routes.md)
   - [resources-routes](/video-develop-basic/010-resources-routes.md)
+  - [active-record](/video-develop-basic/011-active-record.md)
