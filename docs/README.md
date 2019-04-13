@@ -22,3 +22,4 @@ Basic install steps.
   - [add-field](/video-develop-basic/013-add-field.md)
   - [new-users](/video-develop-basic/014-new-users.md)
   - [session](/video-develop-basic/015-session.md)
+  - [relation](/video-develop-basic/016-relation.md)
