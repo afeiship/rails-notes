@@ -25,3 +25,6 @@ Rails::Application 类从 Rails::Engine 类继承了大量行为。
 本文把这类“完整的插件”简称为“引擎”。
 也就是说，引擎可以是插件，插件也可以是引擎。
 ~~~
+
+## resources
+- https://www.weiyun.com/disk/folder/4efd47053fefac82ede838ec6bd9d728[277-mountable-engines.mp4]
