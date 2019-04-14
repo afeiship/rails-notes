@@ -23,3 +23,4 @@ Basic install steps.
   - [new-users](/video-develop-basic/014-new-users.md)
   - [session](/video-develop-basic/015-session.md)
   - [relation](/video-develop-basic/016-relation.md)
+  - [rails-frontend](/video-develop-basic/017-rails-frontend.md)

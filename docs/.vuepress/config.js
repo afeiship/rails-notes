@@ -33,7 +33,8 @@ module.exports = {
           '/video-develop-basic/013-add-field.md',
           '/video-develop-basic/014-new-users.md',
           '/video-develop-basic/015-session.md',
-          '/video-develop-basic/016-relation.md'
+          '/video-develop-basic/016-relation.md',
+          '/video-develop-basic/017-rails-frontend'
         ]
       }
     ]
