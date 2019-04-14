@@ -24,3 +24,10 @@ Basic install steps.
   - [session](/video-develop-basic/015-session.md)
   - [relation](/video-develop-basic/016-relation.md)
   - [rails-frontend](/video-develop-basic/017-rails-frontend.md)
+  - [link-to](/video-develop-basic/018-link-to.md)
+  - [form-for](/video-develop-basic/018-form-for.md)
+
+
+
+## reference
+- https://api.rubyonrails.org/
