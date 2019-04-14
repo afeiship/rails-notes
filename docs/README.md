@@ -28,6 +28,8 @@ Basic install steps.
   - [form-for](/video-develop-basic/018-form-for.md)
   - [helper](/video-develop-basic/019-helper.md)
   - [login-for-pages](/video-develop-basic/021-login-for-pages.md)
+  - [aseets-pipline](/video-develop-basic/022-aseets-pipline.md)
+  - [test](/video-develop-basic/023-test.md)
 
 
 

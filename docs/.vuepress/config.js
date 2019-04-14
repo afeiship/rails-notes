@@ -39,6 +39,8 @@ module.exports = {
           '/video-develop-basic/019-form-for.md',
           '/video-develop-basic/020-helper.md',
           '/video-develop-basic/021-login-for-pages.md',
+          '/video-develop-basic/022-aseets-pipline.md',
+          '/video-develop-basic/023-test.md'
         ]
       }
     ]
