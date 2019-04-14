@@ -34,9 +34,11 @@ module.exports = {
           '/video-develop-basic/014-new-users.md',
           '/video-develop-basic/015-session.md',
           '/video-develop-basic/016-relation.md',
-          '/video-develop-basic/017-rails-frontend',
-          '/video-develop-basic/018-link-to',
-          '/video-develop-basic/019-form-for',
+          '/video-develop-basic/017-rails-frontend.md',
+          '/video-develop-basic/018-link-to.md',
+          '/video-develop-basic/019-form-for.md',
+          '/video-develop-basic/020-helper.md',
+          '/video-develop-basic/021-login-for-pages.md',
         ]
       }
     ]

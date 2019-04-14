@@ -26,6 +26,8 @@ Basic install steps.
   - [rails-frontend](/video-develop-basic/017-rails-frontend.md)
   - [link-to](/video-develop-basic/018-link-to.md)
   - [form-for](/video-develop-basic/018-form-for.md)
+  - [helper](/video-develop-basic/019-helper.md)
+  - [login-for-pages](/video-develop-basic/021-login-for-pages.md)
 
 
 
