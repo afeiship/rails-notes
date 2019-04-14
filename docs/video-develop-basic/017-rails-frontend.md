@@ -10,15 +10,15 @@
 ## current time
 > 默认情况下 rails 会把 controller 中所有的呈现出来的变量提供给 view 使用
 
-```rb
+```html
 <h2>Current time <%= Time.now.to_s %></h2>
 
-# 输出 post 上的 content 内容
+<!-- 输出 post 上的 content 内容 -->
 <%= @post.content %>
 ```
 
 ## 用其它变量
-```rb
+```html
 <% if @post.user.id == session[:user_id] %>
 <span>我自己</span>
 <% else %>
