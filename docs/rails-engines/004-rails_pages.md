@@ -62,3 +62,6 @@ $ tree
 └── tasks
     └── rails_pages_tasks.rake
 ~~~
+
+## resources
+- https://github.com/afeiship/rails_pages
