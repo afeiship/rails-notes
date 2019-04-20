@@ -5,7 +5,7 @@
 Basic install steps.
 :::
 
-## Javascript
+## Video
   - [Home](/)
   - [about-rails](/video-develop-basic/001-about-rails.md)
   - [rails-env](/video-develop-basic/002-rails-env.md)
