@@ -22,6 +22,7 @@ module.exports = {
           '/rails-engines/002-create-engine.md',
           '/rails-engines/003-mount-your-engine.md',
           '/rails-engines/004-rails_pages.md',
+          '/rails-engines/005-commands.md'
         ]
       },
       {
