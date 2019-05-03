@@ -8,7 +8,12 @@
 ```
 ```rb
 # options:
-<%= options_for_select([['Lisbon', 1], ['Madrid', 2], ...]) %>
+<%= options_for_select(
+  [
+    ['Lisbon', 1, { 'data-size' => '2.8 million' }],
+    ['Madrid', 2, { 'data-size' => '3.2 million' }]
+  ], 2
+) %>
 ```
 
 ## html
