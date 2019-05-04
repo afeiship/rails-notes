@@ -29,5 +29,7 @@ end
 ~~~
 
 ## ajax upload
+~~~
 和其他表单不同，异步上传文件的表单可不是为 form_for 辅助方法设置 remote: true 选项这么简单。在这个 Ajax 表单中，上传文件的序列化是通过浏览器端的 JavaScript 完成的，而 JavaScript 无法读取硬盘上的文件，因此文件无法上传。`最常见的解决方案是使用不可见的 iframe 作为表单提交的目标。`
+~~~
 
