@@ -12,3 +12,11 @@ get 'profile', to: 'users#show'
 ```rb
 get 'profile', to: :show, controller: 'users'
 ```
+
+## 缺陷
+> 有一个长期存在的缺陷使 form_for 辅助方法无法自动处理单数资源。有一个解决方案是直接指定表单 URL，例如：
+
+```rb
+form_for @geocoder, url: geocoder_path do |f|
+# 为了行文简洁，省略以下内容
+```
