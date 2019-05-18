@@ -35,7 +35,7 @@ user.moments
 > 让常规操作变得更简单。
 
 ## 几种关联
-1. belongs_to : 从属关注
+1. belongs_to : 从属关系
 2. has_one: 1对1关系
 3. has_many: 1对多关系
 4. has_and_belongs_to_many: HABTM 多对多关联
