@@ -23,6 +23,7 @@ end
 
 ```shell
 ./bin/rails g migration AddCommentableToPosts commentable:references{polymorphic}
+./bin/rails g migration AddCommentableToPictures commentable:references{polymorphic}
 ```
 
 ```rb
