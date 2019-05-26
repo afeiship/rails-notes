@@ -7,4 +7,5 @@
 - https://sourcey.com/articles/building-the-perfect-rails-api
 - https://devise-token-auth.gitbook.io/devise-token-auth/
 - https://github.com/bploetz/versionist
+- https://revs.runtime-revolution.com/integrating-a-third-party-api-with-rails-5-134f960ddbba
 
