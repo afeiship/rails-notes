@@ -14,3 +14,4 @@ gem update --system
 
 ## resources
 - https://egel.github.io/2018/11/10/if-possible-do-not-use-the-ruby-system-version-on-mac-osx.html
+- https://medium.com/@IanRahman/how-to-upgrade-ruby-on-a-mac-a592c6085c63
