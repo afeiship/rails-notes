@@ -13,3 +13,4 @@ counters[:zoo]  # => nil
 
 ## resources
 - https://api.rubyonrails.org/classes/ActiveSupport/HashWithIndifferentAccess.html
+- https://www.cnblogs.com/fanxiaopeng/p/5231602.html
