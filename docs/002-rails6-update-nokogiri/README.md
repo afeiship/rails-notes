@@ -8,8 +8,14 @@ Please upgrade to Ruby 2.5.0 or newer to continue.
 
 ## update
 ```shell
-rbenv global 2.6.1
+# rbenv global 2.6.1
+rbenv global 2.6.5
 gem update --system
+```
+
+## new solution
+```shell
+sudo gem install rails
 ```
 
 ## resources
